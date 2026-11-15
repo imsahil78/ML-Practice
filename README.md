@@ -27,9 +27,9 @@ A hands-on journey into Machine Learning using Python and Scikit-learn. Practisi
 ```text
 ML-Practice/
 │
-├── clustering/
 ├── Ensemble_Learning/
 ├── Grid_Search_CV/
+├── clustering/
 ├── heart/
 ├── insurence/
 ├── linear_regression/
